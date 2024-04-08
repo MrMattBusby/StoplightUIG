@@ -1,6 +1,6 @@
 # StoplightUIG
 
-A User-Interface-Guide for providing system and function/callback, feedback and states via GYR icon fore/backgrounds.
+A User Interface Guide (UIG) for providing system & function/callback, feedback & states via 🚦 icon fore/backgrounds.
 
 # Principles
 

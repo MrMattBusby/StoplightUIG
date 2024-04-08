@@ -11,14 +11,20 @@ User Interface Guiding (UIG) principals for providing system/callback feedback/s
 - Tool-tips: `Brief (green: On) [APP-UIG-0001.00]`
 - Status changes all shown in a log accessible from status bar
 - Supports 👉 and 🖱️
+- The accessibilites, colors, contrasts, timings, etc. are modifiable
 
 # ✅ To-dos
 
 - [ ] More thought into enums like modes
-- [ ] Gray = Disconnected/not speaking?
+- [ ] Define length that yellow callback waits before failing, and how long to show red/green before fading back to gray (1-3sec)?
+- [ ] Gray = Disconnected/not speaking? Or for state-less buttons -> add to chart above (also the grays above are too similar
 - [ ] Blues?
 - [ ] List specs for accessibility
 - [ ] Distinguish Principles above between requirements and design hueristics
+
+## Meta
+
+- [ ] Why is the graphic blurry when it's an .svg?
 
 # 🪪 License
 

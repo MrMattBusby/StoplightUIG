@@ -3,7 +3,7 @@ A User-Interface-Guide for providing system and function/callback, feedback and 
 
 # Principles
 
-
+![](./StoplightUIG.drawio.svg)
 
 # License
 
